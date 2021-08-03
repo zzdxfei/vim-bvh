@@ -1,14 +1,10 @@
 Description
 ===========
 
-Vim syntax file to highlight various log files.
+Vim syntax file to highlight various bvh files.
 
 This syntax file describes how to highlight:
-* Error messages (containing 'error', 'fail', etc. words)
-* Warning messages (containing 'warning', 'delete', etc. words )
 * Strings ( Double quotes and single quotes )
-* Date values in various formats
-* Time values in various formats
 * Numbers - decimal and hex
 
 This syntax is based on messages.vim - syntax file for highlighting Linux kernel
