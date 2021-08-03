@@ -3,10 +3,6 @@ Description
 
 Vim syntax file to highlight various bvh files.
 
-This syntax file describes how to highlight:
-* Strings ( Double quotes and single quotes )
-* Numbers - decimal and hex
-
 This syntax is based on messages.vim - syntax file for highlighting Linux kernel
 messages, but it's not bound to positioning of elements (messages.vim requires
 your logs to start with Date and time values or it will not highlight anything).
